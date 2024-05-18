@@ -1,0 +1,4 @@
+<launch>
+    <node name="mavlink_2_mqtt" pkg="mavlink_2_mqtt" type="mavlink_2_mqtt.py" output="screen">
+    </node>
+</launch>
